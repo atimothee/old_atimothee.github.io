@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Lessons | Timothy Asiimwe]]></title>
   <link href="http://atimothee.github.io/blog/categories/lessons/atom.xml" rel="self"/>
   <link href="http://atimothee.github.io/"/>
-  <updated>2014-08-02T18:05:55+03:00</updated>
+  <updated>2014-08-02T19:15:11+03:00</updated>
   <id>http://atimothee.github.io/</id>
   <author>
     <name><![CDATA[Timothy Asiimwe]]></name>
@@ -20,37 +20,44 @@
     <id>http://atimothee.github.io/blog/2014/08/02/reflections-of-a-programmer</id>
     <content type="html"><![CDATA[<p>Every once in a while I like to reflect on life. And there’s no better time than now. I literally have nothing to chase, no deadline to beat, no books, no exams. So I’ve been thinking, alot about the unobvious benefits of being a software developer.</p>
 
-<p>Programming involves a lot of thinking and overtime, it changes the way you think about life and stuff in general. So here are five unintentional benefits to the programmer that I’ve gained from my experience writing code for the most part of my waking hours.</p>
+<p>Programming involves a lot of thinking and overtime, it changes the way you think about life and stuff in general. So here are five important lessons that I’ve learned through my experience writing code for the most part of my waking hours.</p>
 
-<p><strong>1. It’s okay to fail:</strong></p>
+<p><strong>1. It’s okay to fail</strong></p>
 
-<p>The error log is the developer’s friend. Having errors, exceptions and bugs is not something to be dreaded. Instead, they guide to make your program or code run better. This is a very helpful trait in life.</p>
+<p>The error log is the developer’s friend. Having errors, exceptions and bugs is not something to be dreaded. Instead, they guide you to make your program or code run better. This is a very helpful trait in life.</p>
 
-<p><strong>2. Faith:</strong></p>
+<p><strong>2. Faith</strong></p>
 
-<p>A lot of software developers are willing to take on work they have no idea how to do (Not sure, but at least I am). I think it’s partly because of the excitement that comes with it, but also because we do it over and over again. Somehow, I’ve learned to have the confidence that things will pan out okay, no matter how humongous the task at hand is.</p>
+<p>A lot of software developers are willing to take on work they have no idea how to do <em>(Not sure about most, but at least I am)</em>. I think it’s partly because of the excitement of trying out something new, but also because we&rsquo;ve gotten away with it in the past. Somehow, I’ve learned to have the confidence that things will pan out okay, and I&rsquo;ll deliver, no matter how humongous the task at hand is.</p>
 
 <!-- more -->
 
 
-<p><strong>3. Great software evolves: Embrace Change</strong></p>
+<p><strong>3. Great software evolves <em>(Embrace Change)</em> </strong></p>
 
-<blockquote><p>“To change often is to be perfect”-Winston Churchill</p></blockquote>
+<blockquote><p>“To improve is to change, to be perfect is to change often” - Winston Churchill</p></blockquote>
 
-<p>There will come a time when you’ll trash what at one point you thought was greatest piece of code and such is life, as we grow, our priorities tend to shift. Therefore, embrace change.</p>
+<p>If you own a smart device, then I’m sure you receive notifications of apps that want to update almost every week or even every day.</p>
 
-<p>If you own a smart device, then I’m sure you receive notifications of apps that want to update almost every week or even every day. I’ve learned to embrace change even radical change.
-Nothing cements this more than the news a few weeks back that Apple released a new programming language. Although Objctive-C hasn’t been trashed per se, iOS development will shift to Swift as the primary language. You have to be willing to try out new stuff. Theres a quote that goes something like this</p>
+<p>Software changes a lot over its lifetime. The Google home page today is very different from the <a href="http://en.wikipedia.org/wiki/File:Google1998.png">first one in 1998</a>. The same goes for Microsoft Windows and many other programs.</p>
 
-<blockquote><p>“When you become a software engineer, you have signed a life-long pact to never stop learning”</p></blockquote>
+<p>Building software has taught me to embrace change, even radical change. So much changes in so little time in the software industry. The rapid pace of innovation renders some technologies obsolete so one has to be willing to adapt and try out new stuff. This leads me to the next lesson.</p>
 
-<p><strong>4. Let go:</strong></p>
+<p><strong>4. Let go</strong></p>
 
-<p>In line with point 3, sometimes you have to let go of that piece of code that you spent hours or days writing, either because its just ugly or its been rendered useless. Such is the nature of the industry, it moves so fast that at one point or another, you may have to let go of your jewel code or skills simply because there&rsquo;s a newer and better way of doing it.</p>
+<p>In line with lesson #3, one thing development has taught me is the art of letting go. Sometimes you have to let go of that piece of code that you spent hours or days writing, either because its <a href="http://en.wikipedia.org/wiki/Code_smell">smelly</a> or its just no longer relevant. Such is the nature of the industry, it moves so fast that at one point or another, you may have to <a href="http://www.infoq.com/articles/twitter-java-use">rewrite your app</a> simply because there&rsquo;s a newer or better way of implementing your solution. And such is life, as we grow, our priorities tend to shift. Therefore, embrace change.</p>
+
+<blockquote><p>“When you become a software engineer, you have signed a life-long pact to never stop learning” - Unknown</p></blockquote>
+
+<p>Nothing cements this more than <a href="http://techcrunch.com/2014/06/02/apple-launches-swift-a-new-programming-language-for-writing-ios-and-os-x-apps/">the news a few weeks back</a> that Apple released a new programming language. Although Objective-C hasn’t been trashed per se, iOS development will shift to <a href="https://developer.apple.com/swift/">Swift</a> as the primary language, so iOS devs have no choice but to adapt to the change.</p>
 
 <p><strong>5. Give back to the community: Freely you have received, freely you should give</strong></p>
 
-<p>The average developer is bound to use some open-source library or tool in their work. We’re here today because of what others did long ago. Big companies have open sourced a lot of their software projects. Open-source has driven the software industry to where it is today, so we’re indebited to give back to the software community and society at large.</p>
+<blockquote><p>&ldquo;If I have seen further than others, it is by standing upon the shoulders of giants.&rdquo; - Isaac Newton</p></blockquote>
+
+<p>The average developer is bound to use some open-source library or tool in their work. Big software companies have open-sourced a lot of their software projects and libraries in this spirit. Open-source has driven the software industry to where it is today, so we’re indebited to give back to the software community and society at large.</p>
+
+<p>But even outside the software industry, many products today wouldn&rsquo;t be here without some of the work done by some people generations ago. So every once in a while, do something for community&rsquo;s sake.</p>
 
 <p><strong>The downside:</strong>
 You cant roll back life:
