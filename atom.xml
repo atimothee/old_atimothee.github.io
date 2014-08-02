@@ -4,7 +4,7 @@
   <title><![CDATA[Timothy Asiimwe]]></title>
   <link href="http://atimothee.github.io/atom.xml" rel="self"/>
   <link href="http://atimothee.github.io/"/>
-  <updated>2014-08-02T19:15:11+03:00</updated>
+  <updated>2014-08-02T19:58:07+03:00</updated>
   <id>http://atimothee.github.io/</id>
   <author>
     <name><![CDATA[Timothy Asiimwe]]></name>
@@ -24,7 +24,9 @@
 
 <p><strong>1. It’s okay to fail</strong></p>
 
-<p>The error log is the developer’s friend. Having errors, exceptions and bugs is not something to be dreaded. Instead, they guide you to make your program or code run better. This is a very helpful trait in life.</p>
+<blockquote><p>&ldquo;If at first you don&rsquo;t succeed, call it version 1.0 - Unknown&rdquo;</p></blockquote>
+
+<p>The error log is the developer’s friend. Errors, exceptions and bugs are all part of the game. Errors are not to be dreaded, they should instead lead you to the source of bug and guide you on how to fix your program or code to run better. Even the mighty Apple and Microsoft of this world have shipped buggy software before. Some have been <a href="http://www.huffingtonpost.com/2013/09/25/apple-maps-bad_n_3990340.html">more embarassing</a> than others but the most important thing is that they release updates and patches. When you fail, instead of stagnating in misery, find out what could have caused it, fix it and release an update. Don&rsquo;t let failure keep you from moving.</p>
 
 <p><strong>2. Faith</strong></p>
 
