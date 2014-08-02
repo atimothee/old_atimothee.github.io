@@ -13,7 +13,7 @@ Programming involves a lot of thinking and overtime, it changes the way you thin
 
 >"If at first you don't succeed, call it version 1.0 - Unknown"
 
-The error log is the developer’s friend. Errors, exceptions and bugs are all part of the game. Errors are not to be dreaded, they usually lead you to the bug and guide you on how to fix your program or code to run better. Even the mighty Apple and Microsoft of this world have shipped buggy software before. Some have been [more embarassing](http://www.huffingtonpost.com/2013/09/25/apple-maps-bad_n_3990340.html) than others but the most important thing is that they release updates and patches. When you fail, instead of stagnating in misery, find out what could have caused it, fix it and release an update. Don't let failure keep you from moving.
+The error log is the developer’s friend. Errors, exceptions and bugs are all part of the game. Errors are not to be dreaded, they should instead lead you to the source of bug and guide you on how to fix your program or code to run better. Even the mighty Apple and Microsoft of this world have shipped buggy software before. Some have been [more embarassing](http://www.huffingtonpost.com/2013/09/25/apple-maps-bad_n_3990340.html) than others but the most important thing is that they release updates and patches. When you fail, instead of stagnating in misery, find out what could have caused it, fix it and release an update. Don't let failure keep you from moving.
 
 **2. Faith**
 
