@@ -8,7 +8,7 @@ categories: [programming, reflection, lessons]
 Every once in a while I like to reflect on life. And there’s no better time than now. I literally have nothing to chase, no deadline to beat, no books, no exams. So I’ve been thinking, alot about the unobvious benefits of being a software developer.
 
 Programming involves a lot of thinking and overtime, it changes the way you think about life and stuff in general. So here are five important lessons that I’ve learned through my experience writing code for the most part of my waking hours.
-
+<!-- more -->
 **1. It’s okay to fail**
 
 >"If at first you don't succeed, call it version 1.0 - Unknown"
@@ -18,7 +18,6 @@ The error log is the developer’s friend. Errors, exceptions and bugs are all p
 **2. Faith**
 
 A lot of software developers are willing to take on work they have no idea how to do *(Not sure about most, but at least I am)*. I think it’s partly because of the excitement of trying out something new, but also because we've gotten away with it in the past. Somehow, I’ve learned to have the confidence that things will pan out okay, and I'll deliver, no matter how humongous the task at hand is.
-<!-- more -->
 
 **3. Great software evolves *(Embrace Change)* **
 
