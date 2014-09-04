@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://atimothee.github.io/blog/2014/08/31/relax-tales-of-playing-with-couch-db-sync/</loc>
+    <lastmod>2014-08-31T20:54:10+03:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://atimothee.github.io/blog/2014/08/02/reflections-of-a-programmer/</loc>
     <lastmod>2014-08-02T02:09:34+03:00</lastmod>
     <priority>0.8</priority>
@@ -17,21 +23,21 @@
   
   <url>
     <loc>http://atimothee.github.io/blog/archives/</loc>
-    <lastmod>2014-08-31T20:51:52+03:00</lastmod>
+    <lastmod>2014-09-04T18:54:59+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://atimothee.github.io/blog/</loc>
-    <lastmod>2014-08-31T20:51:52+03:00</lastmod>
+    <lastmod>2014-09-04T18:54:59+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://atimothee.github.io/</loc>
-    <lastmod>2014-08-31T20:51:52+03:00</lastmod>
+    <lastmod>2014-09-04T18:54:59+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
