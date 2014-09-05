@@ -4,7 +4,7 @@
   <title><![CDATA[Timothy Asiimwe]]></title>
   <link href="http://atimothee.github.io/atom.xml" rel="self"/>
   <link href="http://atimothee.github.io/"/>
-  <updated>2014-09-04T18:54:59+03:00</updated>
+  <updated>2014-09-05T17:56:23+03:00</updated>
   <id>http://atimothee.github.io/</id>
   <author>
     <name><![CDATA[Timothy Asiimwe]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Relax: Tales of Playing With Couch DB Sync]]></title>
-    <link href="http://atimothee.github.io/blog/2014/08/31/relax-tales-of-playing-with-couch-db-sync/"/>
-    <updated>2014-08-31T20:54:10+03:00</updated>
-    <id>http://atimothee.github.io/blog/2014/08/31/relax-tales-of-playing-with-couch-db-sync</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reflections of a Programmer]]></title>
