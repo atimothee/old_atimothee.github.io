@@ -38,20 +38,6 @@ Building software has taught me to embrace change, even radical change. So much 
 
 In line with lesson #3, one thing development has taught me is the art of letting go. Sometimes you have to let go of that piece of code that you spent hours or days writing, either because its [smelly](http://en.wikipedia.org/wiki/Code_smell) or its just no longer relevant. Such is the nature of the industry, it moves so fast that at one point or another, you may have to [rewrite your app](http://www.infoq.com/articles/twitter-java-use) simply because there's a newer or better way of implementing your solution. And such is life, as we grow, our priorities tend to shift. Therefore, embrace change.
 
-**3. Great software evolves *(Embrace Change)* **
-
->“To improve is to change, to be perfect is to change often” - Winston Churchill
-
-If you own a smart device, then I’m sure you receive notifications of apps that want to update almost every week or even every day.
-
-Software changes a lot over its lifetime. The Google home page today is very different from the [first one in 1998](http://en.wikipedia.org/wiki/File:Google1998.png). The same goes for Microsoft Windows and many other programs.
-
-Building software has taught me to embrace change, even radical change. So much changes in so little time in the software industry. The rapid pace of innovation renders some technologies obsolete so one has to be willing to adapt and try out new stuff. This leads me to the next lesson.
-
-**4. Let go**
-
-In line with lesson #3, one thing development has taught me is the art of letting go. Sometimes you have to let go of that piece of code that you spent hours or days writing, either because its [smelly](http://en.wikipedia.org/wiki/Code_smell) or its just no longer relevant. Such is the nature of the industry, it moves so fast that at one point or another, you may have to [rewrite your app](http://www.infoq.com/articles/twitter-java-use) simply because there's a newer or better way of implementing your solution. And such is life, as we grow, our priorities tend to shift. Therefore, embrace change.
-
 >“When you become a software engineer, you have signed a life-long pact to never stop learning” - Unknown
 
 Nothing cements this more than [the news a few weeks back](http://techcrunch.com/2014/06/02/apple-launches-swift-a-new-programming-language-for-writing-ios-and-os-x-apps/) that Apple released a new programming language. Although Objective-C hasn’t been trashed per se, iOS development will shift to [Swift](https://developer.apple.com/swift/) as the primary language, so iOS devs have no choice but to adapt to the change. 
