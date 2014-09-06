@@ -3,6 +3,8 @@ layout: page
 comments: false
 sharing: false
 footer: false
+keywords: "timothy, asiimwe, about, bio"
+description: "About Timothy Asiimwe"
 ---
 <img id="portrait" src="/images/timothy_asiimwe.jpg" alt="prof_pic" />Hello, I'm Timothy Asiimwe. I'm a passionate software developer & a student of Electrical Engineering. I love creating software for personal, commercial and open source projects.
 >I hope to make the world a better place one line of code at a time.
