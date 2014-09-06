@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Reflection | Timothy Asiimwe]]></title>
   <link href="http://atimothee.github.io/blog/categories/reflection/atom.xml" rel="self"/>
   <link href="http://atimothee.github.io/"/>
-  <updated>2014-09-06T21:54:14+03:00</updated>
+  <updated>2014-09-07T01:11:10+03:00</updated>
   <id>http://atimothee.github.io/</id>
   <author>
     <name><![CDATA[Timothy Asiimwe]]></name>
@@ -29,15 +29,10 @@
 
 <blockquote><p>&ldquo;If at first you don&rsquo;t succeed, call it version 1.0 - Unknown&rdquo;</p></blockquote>
 
-<h1>The error log is the developer’s friend. Errors, exceptions and bugs are all part of the game. Errors are not to be dreaded, they should instead lead you to the source of bug and guide you on how to fix your program or code to run better. Even the mighty Apple and Microsoft of this world have shipped buggy software before. Some have been <a href="http://www.huffingtonpost.com/2013/09/25/apple-maps-bad_n_3990340.html">more embarassing</a> than others but the most important thing is that they release updates and patches. When you fail, instead of stagnating in misery, find out what could have caused it, fix it and release an update. Don&rsquo;t let failure keep you from moving.</h1>
+<p>The error log is the developer’s best friend. Errors, exceptions and bugs are all part of the game. Errors<em>(read failures)</em> ought not to be dreaded, but should instead be thought of as the blueprint for how to fix the program or code to run better. Even the mighty Apple and Microsoft of this world have shipped buggy software before. Some have been <a href="http://www.huffingtonpost.com/2013/09/25/apple-maps-bad_n_3990340.html">more embarassing</a> than others but the most important thing is that they release updates and patches. When you fail, instead of stagnating in misery, find out what could have caused it, fix it and release an update. Don&rsquo;t let failure keep you from moving.</p>
 
-<p><strong>1. It’s okay to fail</strong></p>
-
-<p>The error log is the developer’s friend. Having errors, exceptions and bugs is not something to be dreaded. Instead, they guide you to make your program or code run better. This is a very helpful trait in life.</p>
-
-<p><strong>2. Faith</strong></p>
-
-<p>A lot of software developers are willing to take on work they have no idea how to do <em>(Not sure about most, but at least I am)</em>. I think it’s partly because of the excitement of trying out something new, but also because we&rsquo;ve gotten away with it in the past. Somehow, I’ve learned to have the confidence that things will pan out okay, and I&rsquo;ll deliver, no matter how humongous the task at hand is.</p>
+<p><strong>2. Faith</strong><br>
+A lot of software developers are willing to take on work they have no idea how to do <em>(Not sure about most, but at least I am)</em>. I think it’s partly because of the excitement of trying out something new, but also because we&rsquo;ve gotten away with it in the past. Somehow, I’ve learned to have the confidence that things will pan out okay, and I&rsquo;ll deliver, no matter how humongous the task at hand is.</p>
 
 <p><strong>3. Great software evolves <em>(Embrace Change)</em> </strong></p>
 
@@ -47,11 +42,10 @@
 
 <p>Software changes a lot over its lifetime. The Google home page today is very different from the <a href="http://en.wikipedia.org/wiki/File:Google1998.png">first one in 1998</a>. The same goes for Microsoft Windows and many other programs.</p>
 
-<p>Building software has taught me to embrace change, even radical change. So much changes in so little time in the software industry. The rapid pace of innovation renders some technologies obsolete so one has to be willing to adapt and try out new stuff. This leads me to the next lesson.</p>
+<p>Building software has taught me to embrace change, even radical change. So much changes in so little time in the software industry. The rapid pace of innovation renders some technologies obsolete, so one has to be willing to adapt and try out new stuff. This leads me to the next lesson.</p>
 
-<p><strong>4. Let go</strong></p>
-
-<p>In line with lesson #3, one thing development has taught me is the art of letting go. Sometimes you have to let go of that piece of code that you spent hours or days writing, either because its <a href="http://en.wikipedia.org/wiki/Code_smell">smelly</a> or its just no longer relevant. Such is the nature of the industry, it moves so fast that at one point or another, you may have to <a href="http://www.infoq.com/articles/twitter-java-use">rewrite your app</a> simply because there&rsquo;s a newer or better way of implementing your solution. And such is life, as we grow, our priorities tend to shift. Therefore, embrace change.</p>
+<p><strong>4. Let go</strong><br>
+In line with lesson #3, one thing development has taught me is the art of letting go. Sometimes you have to let go of that piece of code that you spent hours or days writing, either because it&rsquo;s either <a href="http://en.wikipedia.org/wiki/Code_smell">smelly</a> or it&rsquo;s just no longer relevant. Such is the nature of the industry, it moves so fast that at one point or another, you may have to <a href="http://www.infoq.com/articles/twitter-java-use">rewrite your app</a> simply because there&rsquo;s a newer or better way of implementing your solution. And such is life, as we grow, our priorities tend to shift. Therefore, embrace change.</p>
 
 <blockquote><p>“When you become a software engineer, you have signed a life-long pact to never stop learning” - Unknown</p></blockquote>
 
@@ -65,7 +59,7 @@
 
 <p>But even outside the software industry, many products today wouldn&rsquo;t be here without some of the work done by some people generations ago. So every once in a while, do something for community&rsquo;s sake.</p>
 
-<p><strong>The downside:</strong>
+<p><strong>The downside:</strong><br>
 You cant roll back life:
 If you’re familiar with version control, then you know that you can roll back to a previous commit, in case you encounter serious problems with your code base and it will be like it never happened. Unfortunately in the real world, when you eff up, as much as you can move on, the scars remain.</p>
 ]]></content>
