@@ -7,7 +7,7 @@ title: Timothy Asiimwe
 subtitle: My ramblings
 author: Timothy Asiimwe
 simple_search: https://www.google.com/search
-description: Tidbits on my experiences and things that interest me
+description: My blog
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -104,4 +104,4 @@ bitbucket_user: tasiimwe
 
 coderbits_user: atimothee
 
-scott coderbits_badge_count: 500
+coderbits_badge_count: 500
