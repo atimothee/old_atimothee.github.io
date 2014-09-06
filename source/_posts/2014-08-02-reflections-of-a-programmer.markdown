@@ -14,10 +14,29 @@ Programming involves a lot of thinking and overtime, it changes the way you thin
 >"If at first you don't succeed, call it version 1.0 - Unknown"
 
 The error log is the developer’s friend. Errors, exceptions and bugs are all part of the game. Errors are not to be dreaded, they should instead lead you to the source of bug and guide you on how to fix your program or code to run better. Even the mighty Apple and Microsoft of this world have shipped buggy software before. Some have been [more embarassing](http://www.huffingtonpost.com/2013/09/25/apple-maps-bad_n_3990340.html) than others but the most important thing is that they release updates and patches. When you fail, instead of stagnating in misery, find out what could have caused it, fix it and release an update. Don't let failure keep you from moving.
+=======
+
+**1. It’s okay to fail**
+
+The error log is the developer’s friend. Having errors, exceptions and bugs is not something to be dreaded. Instead, they guide you to make your program or code run better. This is a very helpful trait in life.
 
 **2. Faith**
 
 A lot of software developers are willing to take on work they have no idea how to do *(Not sure about most, but at least I am)*. I think it’s partly because of the excitement of trying out something new, but also because we've gotten away with it in the past. Somehow, I’ve learned to have the confidence that things will pan out okay, and I'll deliver, no matter how humongous the task at hand is.
+
+**3. Great software evolves *(Embrace Change)* **
+
+>“To improve is to change, to be perfect is to change often” - Winston Churchill
+
+If you own a smart device, then I’m sure you receive notifications of apps that want to update almost every week or even every day.
+
+Software changes a lot over its lifetime. The Google home page today is very different from the [first one in 1998](http://en.wikipedia.org/wiki/File:Google1998.png). The same goes for Microsoft Windows and many other programs.
+
+Building software has taught me to embrace change, even radical change. So much changes in so little time in the software industry. The rapid pace of innovation renders some technologies obsolete so one has to be willing to adapt and try out new stuff. This leads me to the next lesson.
+
+**4. Let go**
+
+In line with lesson #3, one thing development has taught me is the art of letting go. Sometimes you have to let go of that piece of code that you spent hours or days writing, either because its [smelly](http://en.wikipedia.org/wiki/Code_smell) or its just no longer relevant. Such is the nature of the industry, it moves so fast that at one point or another, you may have to [rewrite your app](http://www.infoq.com/articles/twitter-java-use) simply because there's a newer or better way of implementing your solution. And such is life, as we grow, our priorities tend to shift. Therefore, embrace change.
 
 **3. Great software evolves *(Embrace Change)* **
 
