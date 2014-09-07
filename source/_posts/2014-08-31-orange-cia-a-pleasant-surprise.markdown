@@ -4,7 +4,7 @@ title: "Orange CIA: A Pleasant Surprise"
 date: 2014-08-31 19:57:54 +0300
 comments: true
 published: false
-categories: 
+categories: awards, kwik study
 ---
 A few weeks back, Kwik Study was 1st runner-up at the Orange Community Innovation Awards held at the Kampala Serena Hotel.
 
