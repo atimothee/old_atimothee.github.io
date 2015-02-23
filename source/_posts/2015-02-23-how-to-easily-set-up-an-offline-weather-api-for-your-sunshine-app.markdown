@@ -6,7 +6,7 @@ comments: true
 categories: [devstudyjam, android, udacity, gdg]
 ---
 So you're eager to get on with Lesson 2 of the [Udacity Android fundamentals course](https://www.udacity.com/course/ud853) but if you're like most students in our [study jam](http://developerstudyjams.com/), you don't have good internet access & you've been using offline course materials. The course has probably been going great till you hit the internet roadblock in lesson 2 (Connecting Sunshine to the cloud). The app needs internet to fetch the weather data.
-
+<!-- more -->
 This tutorial shows you a simple work around. We'll bring the 'cloud' to your local machine. Well technically, just a tiny little bit of the cloud that you need to test your app. You don't need internet to fetch weather data. The only difference is that your data will be static and therefore not accurate but the data accuracy shouldn't be a big deal when trying to learn how to fetch weather data into the app.
 
 >For those not familiar with the Android Fundamentals course, the cloud in this context simply refers to the [Open Weather Map API](http://openweathermap.org/api).
