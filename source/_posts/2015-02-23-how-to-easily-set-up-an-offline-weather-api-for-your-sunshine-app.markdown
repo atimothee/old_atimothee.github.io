@@ -3,7 +3,7 @@ layout: post
 title: "How to easily set up an offline weather API Server for your Sunshine app"
 date: 2015-02-23 01:11:58 +0300
 comments: true
-categories: [devstudyjam, android, udacity, gdg]
+categories: [devstudyjam, android, udacity, gdg, tutorial]
 ---
 So you're eager to get on with Lesson 2 of the [Udacity Android fundamentals course](https://www.udacity.com/course/ud853) but if you're like most students in our [study jam](http://developerstudyjams.com/), you don't have good internet access & you've been using offline course materials. The course has probably been going great till you hit the internet roadblock in lesson 2 (Connecting Sunshine to the cloud). The app needs internet to fetch the weather data.
 <!-- more -->
