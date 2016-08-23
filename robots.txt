@@ -2,7 +2,11 @@ User-agent: *
 Disallow: 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sitemap: http://timothyasiimwe.me/sitemap.xml 
 =======
 Sitemap: http://atimothee.github.io/sitemap.xml 
 >>>>>>> 6a3288c2e994a9c6e1e96795a8e39c69affd6fb0
+=======
+Sitemap: http://timothyasiimwe.me/sitemap.xml 
+>>>>>>> 9cc73161dac6556422a26cb5f9584398baddfd04
