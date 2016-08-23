@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to use Facebook Account Kit to authenticate Firebase app users on Android"
-date: 2016-08-23 17:01:26 +0300
+date: 2016-08-22 17:01:26 +0300
 comments: true
 published: false
 categories: 

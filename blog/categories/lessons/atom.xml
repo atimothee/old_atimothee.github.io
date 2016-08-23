@@ -10,6 +10,7 @@
 =======
   <title><![CDATA[Category: lessons | Timothy Asiimwe]]></title>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <link href="http://atimothee.github.io/blog/categories/lessons/atom.xml" rel="self"/>
   <link href="http://atimothee.github.io/"/>
   <updated>2016-07-09T21:26:53+03:00</updated>
@@ -21,6 +22,12 @@
   <updated>2016-07-09T21:54:16+03:00</updated>
   <id>http://timothyasiimwe.me/</id>
 >>>>>>> 9cc73161dac6556422a26cb5f9584398baddfd04
+=======
+  <link href="http://atimothee.xyz/blog/categories/lessons/atom.xml" rel="self"/>
+  <link href="http://atimothee.xyz/"/>
+  <updated>2016-08-23T18:09:07+03:00</updated>
+  <id>http://atimothee.xyz/</id>
+>>>>>>> 51b0ef641c1e73be365240fe8efc25e355349ba2
   <author>
     <name><![CDATA[Timothy Asiimwe]]></name>
     
@@ -36,14 +43,18 @@
     <id>http://timothyasiimwe.me/blog/2014/08/02/reflections-of-a-programmer</id>
 =======
     <title type="html"><![CDATA[Reflections Of A Programmer]]></title>
-    <link href="http://timothyasiimwe.me/blog/2014/08/02/reflections-of-a-programmer/"/>
+    <link href="http://atimothee.xyz/blog/2014/08/02/reflections-of-a-programmer/"/>
     <updated>2014-08-02T02:09:34+03:00</updated>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <id>http://atimothee.github.io/blog/2014/08/02/reflections-of-a-programmer</id>
 >>>>>>> 6a3288c2e994a9c6e1e96795a8e39c69affd6fb0
 =======
     <id>http://timothyasiimwe.me/blog/2014/08/02/reflections-of-a-programmer</id>
 >>>>>>> 9cc73161dac6556422a26cb5f9584398baddfd04
+=======
+    <id>http://atimothee.xyz/blog/2014/08/02/reflections-of-a-programmer</id>
+>>>>>>> 51b0ef641c1e73be365240fe8efc25e355349ba2
     <content type="html"><![CDATA[<p>Every once in a while I like to reflect on life. And there’s no better time than now. I literally have nothing to chase, no deadline to beat, no books, no exams. So I’ve been thinking, alot about the unobvious benefits of being a software developer.</p>
 
 <p>Programming involves a lot of thinking and overtime, it changes the way you think about life and stuff in general. So here are five important lessons that I’ve learned through my experience writing code for the most part of my waking hours.</p>

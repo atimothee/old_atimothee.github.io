@@ -3,6 +3,7 @@ Disallow:
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sitemap: http://timothyasiimwe.me/sitemap.xml 
 =======
 Sitemap: http://atimothee.github.io/sitemap.xml 
@@ -10,3 +11,6 @@ Sitemap: http://atimothee.github.io/sitemap.xml
 =======
 Sitemap: http://timothyasiimwe.me/sitemap.xml 
 >>>>>>> 9cc73161dac6556422a26cb5f9584398baddfd04
+=======
+Sitemap: http://atimothee.xyz/sitemap.xml 
+>>>>>>> 51b0ef641c1e73be365240fe8efc25e355349ba2

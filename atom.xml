@@ -10,6 +10,7 @@
 =======
   <title><![CDATA[Timothy Asiimwe]]></title>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <link href="http://atimothee.github.io/atom.xml" rel="self"/>
   <link href="http://atimothee.github.io/"/>
   <updated>2016-07-09T21:26:53+03:00</updated>
@@ -21,6 +22,12 @@
   <updated>2016-07-09T21:54:16+03:00</updated>
   <id>http://timothyasiimwe.me/</id>
 >>>>>>> 9cc73161dac6556422a26cb5f9584398baddfd04
+=======
+  <link href="http://atimothee.xyz/atom.xml" rel="self"/>
+  <link href="http://atimothee.xyz/"/>
+  <updated>2016-08-23T18:09:07+03:00</updated>
+  <id>http://atimothee.xyz/</id>
+>>>>>>> 51b0ef641c1e73be365240fe8efc25e355349ba2
   <author>
     <name><![CDATA[Timothy Asiimwe]]></name>
     
@@ -30,6 +37,7 @@
   
   <entry>
     <title type="html"><![CDATA[How to Easily Set Up an Offline Weather API Server for Your Sunshine App]]></title>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <link href="http://timothyasiimwe.me/blog/2015/02/23/how-to-easily-set-up-an-offline-weather-api-for-your-sunshine-app/"/>
@@ -45,6 +53,11 @@
     <updated>2015-02-23T01:11:58+03:00</updated>
     <id>http://timothyasiimwe.me/blog/2015/02/23/how-to-easily-set-up-an-offline-weather-api-for-your-sunshine-app</id>
 >>>>>>> 9cc73161dac6556422a26cb5f9584398baddfd04
+=======
+    <link href="http://atimothee.xyz/blog/2015/02/23/how-to-easily-set-up-an-offline-weather-api-for-your-sunshine-app/"/>
+    <updated>2015-02-23T01:11:58+03:00</updated>
+    <id>http://atimothee.xyz/blog/2015/02/23/how-to-easily-set-up-an-offline-weather-api-for-your-sunshine-app</id>
+>>>>>>> 51b0ef641c1e73be365240fe8efc25e355349ba2
     <content type="html"><![CDATA[<p>So you&rsquo;re eager to get on with Lesson 2 of the <a href="https://www.udacity.com/course/ud853">Udacity Android fundamentals course</a> but if you&rsquo;re like most students in our <a href="http://developerstudyjams.com/">study jam</a>, you don&rsquo;t have good internet access &amp; you&rsquo;ve been using offline course materials. The course has probably been going great till you hit the internet roadblock in lesson 2 (Connecting Sunshine to the cloud). The app needs internet to fetch the weather data.</p>
 
 <!-- more -->
@@ -170,6 +183,7 @@ We&rsquo;re not interested in the data&rsquo;s accuracy.</p>
     <title type="html"><![CDATA[Reflections of a Programmer]]></title>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <link href="http://timothyasiimwe.me/blog/2014/08/02/reflections-of-a-programmer/"/>
     <updated>2014-08-02T02:09:34+03:00</updated>
     <id>http://timothyasiimwe.me/blog/2014/08/02/reflections-of-a-programmer</id>
@@ -183,6 +197,11 @@ We&rsquo;re not interested in the data&rsquo;s accuracy.</p>
     <updated>2014-08-02T02:09:34+03:00</updated>
     <id>http://timothyasiimwe.me/blog/2014/08/02/reflections-of-a-programmer</id>
 >>>>>>> 9cc73161dac6556422a26cb5f9584398baddfd04
+=======
+    <link href="http://atimothee.xyz/blog/2014/08/02/reflections-of-a-programmer/"/>
+    <updated>2014-08-02T02:09:34+03:00</updated>
+    <id>http://atimothee.xyz/blog/2014/08/02/reflections-of-a-programmer</id>
+>>>>>>> 51b0ef641c1e73be365240fe8efc25e355349ba2
     <content type="html"><![CDATA[<p>Every once in a while I like to reflect on life. And there’s no better time than now. I literally have nothing to chase, no deadline to beat, no books, no exams. So I’ve been thinking, alot about the unobvious benefits of being a software developer.</p>
 
 <p>Programming involves a lot of thinking and overtime, it changes the way you think about life and stuff in general. So here are five important lessons that I’ve learned through my experience writing code for the most part of my waking hours.</p>
@@ -234,6 +253,7 @@ If you’re familiar with version control, then you know that you can roll back 
     <title type="html"><![CDATA[The Stars of 2013: Remembering the Fallen Soldiers]]></title>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <link href="http://timothyasiimwe.me/blog/2013/12/30/the-stars-of-2013-remembering-the-fallen-soldiers/"/>
     <updated>2013-12-30T20:05:15+03:00</updated>
     <id>http://timothyasiimwe.me/blog/2013/12/30/the-stars-of-2013-remembering-the-fallen-soldiers</id>
@@ -247,6 +267,11 @@ If you’re familiar with version control, then you know that you can roll back 
     <updated>2013-12-30T20:05:15+03:00</updated>
     <id>http://timothyasiimwe.me/blog/2013/12/30/the-stars-of-2013-remembering-the-fallen-soldiers</id>
 >>>>>>> 9cc73161dac6556422a26cb5f9584398baddfd04
+=======
+    <link href="http://atimothee.xyz/blog/2013/12/30/the-stars-of-2013-remembering-the-fallen-soldiers/"/>
+    <updated>2013-12-30T20:05:15+03:00</updated>
+    <id>http://atimothee.xyz/blog/2013/12/30/the-stars-of-2013-remembering-the-fallen-soldiers</id>
+>>>>>>> 51b0ef641c1e73be365240fe8efc25e355349ba2
     <content type="html"><![CDATA[<p>If you watch <a href="http://www.imdb.com/title/tt1796960/">Homeland</a> or are familiar with CIA operation, then you probably know what happens when an agent dies in the line of service. They become a star, which is placed on <a href="http://en.wikipedia.org/wiki/CIA_Memorial_Wall">the memorial wall</a> at an emotional ceremony and words along these lines will be said -</p>
 
 <blockquote><p>“For the men and women of the CIA, this constellation is more than a memorial, more than a quiet tribute. Each star holds memories of a brave intelligence officer whose example we follow, a treasured colleague whose wisdom we keep, or a lost friend we will miss. <!-- more -->They are our heroes, and that’s how we’ll remember them”</p></blockquote>
@@ -260,6 +285,7 @@ If you’re familiar with version control, then you know that you can roll back 
 <p><strong>1. Special Agent HP P</strong><br>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <img src="http://timothyasiimwe.me/images/hp_probook.jpg" /></p>
 =======
 <img src="http://atimothee.github.io/images/hp_probook.jpg" /></p>
@@ -267,10 +293,14 @@ If you’re familiar with version control, then you know that you can roll back 
 =======
 <img src="http://timothyasiimwe.me/images/hp_probook.jpg" /></p>
 >>>>>>> 9cc73161dac6556422a26cb5f9584398baddfd04
+=======
+<img src="http://atimothee.xyz/images/hp_probook.jpg" /></p>
+>>>>>>> 51b0ef641c1e73be365240fe8efc25e355349ba2
 
 <p>This guy was the true definition of “Service above self”. He was always up for the task, even when I asked for the impossible from him. He went through a number of clean installations but still emerged sentient. Dude condensed a whole flask of water but still continued diligently serving. I couldn’t have asked for more from you agent. Unfortunately, Kampala’s sharp guys managed to snack you away from me.(A story for another day). You, agent HP P saw me advance from Hello World! to real world code, and for that I’m truly grateful.</p>
 
 <p><strong>2. Agent 3GS</strong><br>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <img src="http://timothyasiimwe.me/images/iphone_3gs.jpg" /></p>
@@ -280,10 +310,14 @@ If you’re familiar with version control, then you know that you can roll back 
 =======
 <img src="http://timothyasiimwe.me/images/iphone_3gs.jpg" /></p>
 >>>>>>> 9cc73161dac6556422a26cb5f9584398baddfd04
+=======
+<img src="http://atimothee.xyz/images/iphone_3gs.jpg" /></p>
+>>>>>>> 51b0ef641c1e73be365240fe8efc25e355349ba2
 
 <p>Another great agent. Unfortunately he entered a comma that he’ll probably never recover from. The experts call it a bricked state. My futile jailbreaking attempts to keep him up to date with Apple are responsible for his demise. But nonetheless, his was a life like no other. He introduced me to the world of smartphones.</p>
 
 <p><strong>3. Agent WD</strong><br>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <img src="http://timothyasiimwe.me/images/mypassport_hdd.jpg" /></p>
@@ -293,6 +327,9 @@ If you’re familiar with version control, then you know that you can roll back 
 =======
 <img src="http://timothyasiimwe.me/images/mypassport_hdd.jpg" /></p>
 >>>>>>> 9cc73161dac6556422a26cb5f9584398baddfd04
+=======
+<img src="http://atimothee.xyz/images/mypassport_hdd.jpg" /></p>
+>>>>>>> 51b0ef641c1e73be365240fe8efc25e355349ba2
 
 <p>Truly spectacular agent. You gave me oodles of space to download &amp; collect everything I deemed interesting. Yours was perhaps the most untimely departure of all. One fall and alas, you were gone forever and so were more than 500 gigs worth of entertainment, never to be seen again. I know some people who’ll probably miss you more than I will.</p>
 ]]></content>
