@@ -8,6 +8,8 @@ subtitle: "Coder at heart"
 author: Timothy Asiimwe
 simple_search: https://www.google.com/search
 description: Timothy Asiimwe's blog
+future: true
+timezone: Africa/Kampala
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
